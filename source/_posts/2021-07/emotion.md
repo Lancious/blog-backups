@@ -21,7 +21,7 @@ categories: 伴月清读
 
 两个人在一起，时间长了，不是会不爱对方，也不是一定会腻，而是你们的相处状态会滑落成一种无需被提醒跟注意的自然而然——**是一种惯性，惯性无所谓浓淡，它就是一直在，所以很难带来极速高涨的情绪刺激。**
 
-![Hexo banner](./emotion/1.png)
+![Hexo banner](emotion/1.png)
 
 在这种时候，你说，遇到一个人，觉得他是自己喜欢的类型，而有些遗憾当时遇见的不是他，算是渣吗？
 
@@ -49,7 +49,7 @@ categories: 伴月清读
 
 这是这么多年来，我会印象很深刻的身边人的恋爱细节，几乎没有之一。
 
-![Hexo banner](./emotion/2.png)
+![Hexo banner](emotion/2.png)
 
 我是想说，**人在某些时刻，是容易被心动牵着走，不用惧怕这种本性，但是你总得知道，你为什么选择了身边的人，你们走过了多长的路，你们从相识到多年陪伴，是怎样的崎岖。**
 
@@ -73,7 +73,7 @@ categories: 伴月清读
 
 我猜测，你并不是那种独身主义的女生，很难说“尽管我永远爱无所得，但也可以潇洒过一生”，我猜你是想爱有所得的。但这么一点的漂浮的心动，背后实在是太多不必要付出的代价了。
 
-![Hexo banner](./emotion/3.png)
+![Hexo banner](emotion/3.png)
 
 有句话倒很对，“人和人之间还是刚认识的时候最好，新鲜又烂漫，虚伪又热忱”。
 
@@ -89,9 +89,9 @@ categories: 伴月清读
 
 我觉得肯定有，而且有很多。
 
-​													    END
+<div align="center">END</div>
 
-![Hexo banner](./emotion/shading1.png)
+![Hexo banner](emotion/shading1.png)
 
 
-![Hexo banner](./emotion/shading2.png)
+![Hexo banner](emotion/shading2.png)
